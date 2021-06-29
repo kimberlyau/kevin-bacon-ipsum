@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0"
+  },
+  "name": "kevin-bacon-ipsum",
+  "description": "Lorem ipsum generator with Kevin Bacon's films. (WIP)",
+  "version": "1.0.0",
+  "main": "kevbacon.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimberlyau/kevin-bacon-ipsum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimberlyau/kevin-bacon-ipsum/issues"
+  },
+  "homepage": "https://github.com/kimberlyau/kevin-bacon-ipsum#readme"
+}
