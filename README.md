@@ -1,5 +1,6 @@
 # kevin-bacon-ipsum
 Lorem ipsum generator with Kevin Bacon's films. (WIP)
+![Initial UI](https://github.com/kimberlyau/kevin-bacon-ipsum/blob/main/kevbacon.png?raw=true)
 
 Next: Design a better UI
 
