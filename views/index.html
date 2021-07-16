@@ -49,14 +49,17 @@
 
   <div id="container">
 
-    <button id="btnGen" type="button" class="btn btn-primary">Generate</button>
+    <form action="/" method="POST">
+      <input type="number" class="paragraph-number" name="numParagraphs">
+      <input type="submit" value="Generate" class="generate-button">
+    </form>
 
     <p>Click "Generate" to generate some Kevin Bacon Ipsum text!</p>
 
     <hr>
 
-    <div class="card">
-      <div id="output" class="card-body"></div>
+  <div class="generated-text">
+    <div class='placeholder-div'></div>
     </div>
   </div>
 
