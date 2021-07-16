@@ -1,10 +1,16 @@
 # kevin-bacon-ipsum
 Lorem ipsum generator with Kevin Bacon's films. (WIP)
 
-### Front-end:
+Next: Design a better UI
+
+#### Front-end:
 - HTML
 - CSS
 - JavaScript
 
-### Back-end: 
+#### Back-end: 
 - Node.js
+- Express
+
+#### Credits:
+Followed express routing example from [this link](https://github.com/robertcoopercode/stranger-ipsum)
